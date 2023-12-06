@@ -5,6 +5,8 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Análise e Desenvolvimento de Sistemas é minha terceira graduação. (Já sou formada em Design Gráfico e Comunicação Social)
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunnalage)](https://github.com/Brunnalage/github-readme-stats"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Brunnalage&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
