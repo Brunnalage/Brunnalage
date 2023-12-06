@@ -10,3 +10,4 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Brunnalage&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
+</picture>
