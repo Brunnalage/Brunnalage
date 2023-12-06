@@ -6,5 +6,5 @@
 - ⚡ Fun fact: Análise e Desenvolvimento de Sistemas é minha terceira graduação. (Já sou formada em Design Gráfico e Comunicação Social)
 
 <div>
-  [![Brunna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunnalage)](https://github.com/Brunnalage/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunnalage)](https://github.com/Brunnalage/github-readme-stats"/>
 </div>
